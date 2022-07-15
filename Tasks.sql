@@ -5,4 +5,4 @@ use fadel
 
 
 /* 2nd task */ 
-select email,pw from utilisateur where email like 'fadel@gmail.com'
+select email,pw from utilisateur where email like 'User@gmail.com'
